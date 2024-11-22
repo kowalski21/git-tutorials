@@ -3,3 +3,4 @@ def say_hello(msg: str) -> None:
     - msg: user messsage
     """
     print(f"Hello {msg}")
+    return "Kwame"
